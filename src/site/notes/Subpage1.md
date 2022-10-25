@@ -38,3 +38,22 @@ gantt
     Add gantt diagram to demo page      :20h
     Add another diagram to demo page    :48h
 ```
+
+
+Text displayed above.
+
+```start-multi-column  
+ID: ExampleRegion1  
+number of columns: 2  
+largest column: left  
+```
+
+Text displayed in column 1.
+
+--- end-column ---
+
+Text displayed in column 2.
+
+=== end-multi-column
+
+Text displayed below.
