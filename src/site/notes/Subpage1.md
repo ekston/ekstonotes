@@ -46,6 +46,8 @@ Text displayed above.
 ID: ExampleRegion1  
 number of columns: 2  
 largest column: left  
+border: off
+shadow: off
 ```
 
 Text displayed in column 1.
