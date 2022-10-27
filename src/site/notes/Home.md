@@ -7,6 +7,12 @@
 ## Weekend Reader
 
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 ## 2022
 [[Weekend Reader Week 43 2022|Weekend Reader Week 43 2022]]
 
